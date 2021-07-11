@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @ythm00
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hello There ðŸ‘‹
+I'm Irham, a 23 Years old Programmer wannabe from Indonesia.
 
-<!---
-ythm00/ythm00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+You can find me on :  
+
+[![My Telegram](https://badges.aleen42.com/src/telegram.svg)](https://t.me/StayWithMe69)
+
+## ðŸ“Š Github Stats
+[![Irham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ythm00&count_private=true&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/ythm00)
